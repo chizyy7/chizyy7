@@ -1,13 +1,15 @@
 <div align="center">
 
 <a href="https://github.com/chizyy7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Chizy+Nnadi+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Developer;Freelance+Developer+%7C+Builder+%7C+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&height=250&lines=Hi%2C+I'm+Chizy+Nnadi+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Developer;Build+Intelligently.+Ship+Boldly.+%F0%9F%9A%80" alt="Chizy Nnadi animated header" />
 </a>
+
+<p><strong>AI/ML & Full-Stack Developer · Freelance Developer · B.Tech AI/ML Student</strong></p>
 
 <p>
   <a href="https://www.linkedin.com/in/chizy-nnadi-9701213b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://chizyy7.github.io/Portfolio_2./"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://peerlist.io/nnadichizy7"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"></a>
+  <a href="https://peerlist.io/nnadichizy7"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=link&logoColor=white" alt="Peerlist"></a>
   <a href="mailto:nnadichizy7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -111,24 +113,65 @@ I enjoy turning ideas into useful products across AI/ML, web, mobile, and develo
 | 🟡 Learning | Advanced machine learning, model evaluation, and deployment |
 | 🟡 Exploring | Freelance collaborations and open-source contributions |
 
+## Open Source & Kaggle
+
+<div align="center">
+  <a href="https://www.kaggle.com/chizyy7"><img src="https://img.shields.io/badge/Kaggle-chizyy7-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile"></a>
+  <a href="https://github.com/chizyy7"><img src="https://img.shields.io/badge/Open%20Source-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"></a>
+</div>
+
+I publish synthetic ML datasets publicly on Kaggle to help developers and learners experiment with realistic data workflows.
+
+## Kaggle Datasets
+
+| Dataset | Purpose |
+|---|---|
+| 🧘 [Meditation App Free-Trial Users (Synthetic)](https://www.kaggle.com/datasets/chizyy7) | Synthetic user behavior data for trial conversion and retention analysis |
+| 🩺 [Health App Churn 50K](https://www.kaggle.com/datasets/chizyy7) | 50,000 synthetic records for health-app churn prediction experiments |
+
 ## GitHub Stats
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=chizyy7&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Chizy's GitHub stats"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizyy7&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=chizyy7&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Chizy's GitHub stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizyy7&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Top languages"></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chizyy7&theme=github-dark-blue&hide_border=true" alt="GitHub streak"></td>
+      <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chizyy7&theme=github-dark-blue&background=0d1117&hide_border=true" alt="GitHub streak"></td>
     </tr>
   </table>
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chizyy7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies">
+</div>
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chizyy7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true&custom_title=Chizy's%20Contribution%20Activity" alt="Chizy's contribution activity graph">
+</div>
+
+## Skills at a Glance
+
+<div align="center">
+  <table>
+    <tr><td align="left"><strong>Python / AI-ML</strong></td><td><code>██████████████████░░</code> 90%</td></tr>
+    <tr><td align="left"><strong>JavaScript / TypeScript</strong></td><td><code>████████████████░░░░</code> 80%</td></tr>
+    <tr><td align="left"><strong>React / React Native</strong></td><td><code>███████████████░░░░░</code> 75%</td></tr>
+    <tr><td align="left"><strong>Flutter / Dart</strong></td><td><code>████████████░░░░░░░░</code> 60%</td></tr>
+    <tr><td align="left"><strong>LLMs / RAG</strong></td><td><code>██████████████░░░░░░</code> 70%</td></tr>
+  </table>
+  <sub>Focus areas are updated as I learn, build, and ship.</sub>
 </div>
 
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chizyy7/chizyy7/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation">
 </div>
 
 ## Dev Quote
@@ -138,5 +181,10 @@ I enjoy turning ideas into useful products across AI/ML, web, mobile, and develo
 </div>
 
 <div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Last%20updated-October%202026-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Last updated October 2026">
+  </p>
+  <sub>📍 Pune, India · 🎓 B.Tech AI/ML @ SIT Pune · <a href="https://chizyy7.github.io/Portfolio_2./">Portfolio</a></sub>
+  <br>
   <sub>Build with curiosity. Ship with purpose. Keep learning. 🚀</sub>
 </div>
